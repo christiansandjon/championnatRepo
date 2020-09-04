@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Championnat:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Championnat</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Championnat-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Championnat:war exploded" />
+    </root>
+  </artifact>
+</component>
